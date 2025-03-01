@@ -1,0 +1,14 @@
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\bin\Debug\net9.0\Exec.exe
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\bin\Debug\net9.0\Exec.deps.json
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\bin\Debug\net9.0\Exec.runtimeconfig.json
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\bin\Debug\net9.0\Exec.dll
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\bin\Debug\net9.0\Exec.pdb
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.AssemblyInfoInputs.cache
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.AssemblyInfo.cs
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.csproj.CoreCompileInputs.cache
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.dll
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\refint\Exec.dll
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.pdb
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\Exec.genruntimeconfig.cache
+C:\Users\Tauani\Documents\Target_Sistemas\Exec\obj\Debug\net9.0\ref\Exec.dll
