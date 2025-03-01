@@ -1,6 +1,8 @@
 # Análise e Manipulação de Dados
 Este repositório contém um conjunto de desafios que envolvem lógica de programação e manipulação de dados em diferentes formatos. O objetivo é aplicar conceitos fundamentais de algoritmos, estrutura de dados e análise de informações extraídas de arquivos JSON e XML.
 
+---
+
 ### Ferramentas
 - VsCode
 - dotnet-sdk-9.0
